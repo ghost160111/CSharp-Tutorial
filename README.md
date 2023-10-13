@@ -1,2 +1,3 @@
-# CSharp-Tutorial
-C# Tutorial that will contain first tutorial and then documentation
+# C# Tutorial
+
+C# - Tutorial that will contain first tutorial and then documentation
